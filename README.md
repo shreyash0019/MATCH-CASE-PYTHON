@@ -11,11 +11,7 @@ This repository contains examples and explanations of Python's `match-case` stat
 
 ## Prerequisites
 
-To run the examples in this repository, ensure you have Python 3.10 or later installed on your system. You can check your Python version with the following command:
-
-```bash
-python --version
-```
+To run the examples in this repository, ensure you have Python 3.10 or later installed on your system. 
 
 ## Usage
 
